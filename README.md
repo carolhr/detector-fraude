@@ -1,6 +1,6 @@
 # Detecção de Fraude em Cartão de Crédito com Machine Learning 💳🛑
 
-![Gráfico de Resumo SHAP](<img width="768" height="940" alt="Variavel_fraude" src="https://github.com/user-attachments/assets/6cc0912a-73ff-43da-aae7-401cea8b8d43" />
+( <img width="768" height="940" alt="Variavel_fraude" src="https://github.com/user-attachments/assets/2fd0bfff-83fa-4db6-8f15-45e7302df85b" />
 )
 
 Este projeto foi desenvolvido como um **Desafio de Projeto** prático guiado pela Expert Isadora Garcia Ferrão. O objetivo central é construir um pipeline completo de Ciência de Dados em Python para identificar transações fraudulentas de cartão de crédito, lidando com o desafio extremo de dados altamente desbalanceados.
